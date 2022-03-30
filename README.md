@@ -12,5 +12,5 @@ This is a basic app that gives you a random type of food that you can order for 
 
 - Kotlin
 - Android
-- 
+
 
