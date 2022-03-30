@@ -1,7 +1,7 @@
 
 # Description:
 
-This is a basic app that gives you a random type of food that you can order for dinner if you need help deciding and add your own food.
+This is a basic app that gives you a random type of food that you can order for dinner if you need help deciding and you can add your own.
 
 # ScreenShots:
 
